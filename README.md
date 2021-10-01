@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!--  referencias no github  -->
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/ClaudioAlmeidaSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioAlmeidaSantos&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAlmeidaSantos&layout=compact&langs_count=7&theme=merko"/></a>
   
