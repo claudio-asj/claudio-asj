@@ -35,16 +35,13 @@ Here are some ideas to get you started:
 
 <!--  linguagens  -->
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="claudio-html" height="30" src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
-  <img align="center" alt="claudio-css" height="30" src="https://cdn-icons-png.flaticon.com/512/888/888847.png">
-  <img align="center" alt="claudio-python" height="30" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png">
-  <img align="center" alt="claudio-cpp" height="30" src="https://cdn-icons-png.flaticon.com/512/461/461075.png">
-  <img align="center" alt="claudio-react" height="30" src="https://cdn-icons-png.flaticon.com/512/919/919851.png">
-</div>
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
-
+dev skills
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,c,java,spring,nodejs,py,react,vue)](https://skills.thijs.gg)
+design skills
+[![My Skills](https://skills.thijs.gg/icons?i=figma,ps)](https://skills.thijs.gg)
+Photoshop
+CorelDraw
+[![My Skills](https://skills.thijs.gg/icons?i=godot,raspberrypi,visualstudio,git,github,gitlab,eclipse)](https://skills.thijs.gg)
 <br/>
 <hr/>
 <br/>
