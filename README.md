@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 <!--  linguagens  -->
 
-dev skills
+dev skills<br/>
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,c,java,spring,nodejs,py,react,vue)](https://skills.thijs.gg)
 <br/>
-design skills
+design skills<br/>
 [![My Skills](https://skills.thijs.gg/icons?i=figma,ps)](https://skills.thijs.gg)
 <br/>
 [![My Skills](https://skills.thijs.gg/icons?i=godot,raspberrypi,visualstudio,git,github,gitlab,eclipse)](https://skills.thijs.gg)
