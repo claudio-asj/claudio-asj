@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 dev skills
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,c,java,spring,nodejs,py,react,vue)](https://skills.thijs.gg)
+<br/>
 design skills
 [![My Skills](https://skills.thijs.gg/icons?i=figma,ps)](https://skills.thijs.gg)
-Photoshop
-CorelDraw
+<br/>
 [![My Skills](https://skills.thijs.gg/icons?i=godot,raspberrypi,visualstudio,git,github,gitlab,eclipse)](https://skills.thijs.gg)
 <br/>
 <hr/>
