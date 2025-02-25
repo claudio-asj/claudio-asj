@@ -1,49 +1,49 @@
 <div style="display: inline_block; ">
-<img height="50" src="https://i.pinimg.com/originals/b1/fd/0f/b1fd0f4a1ce84cb8450a1010cff946f6.gif"/>
+    <img height="50" src="https://i.pinimg.com/originals/b1/fd/0f/b1fd0f4a1ce84cb8450a1010cff946f6.gif"/>
+    <h1>Olá, eu sou o Claudio Jr </h1>
 
-<h1>Olá, eu sou o Claudio Jr 🌊</h1>
-
-<!--  referencias no github  -->
-<div>
-  <a href="https://github.com/claudio-asj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-asj&layout=compact&langs_count=7&theme=merko"/></a>
-</div>
-
+    <div>
+        <a href="https://github.com/claudio-asj">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-asj&layout=compact&langs_count=7&theme=merko"/>
+        </a>
+    </div>
 </div>
 <br>
 
-> Sou um desenvolvedor em constante aprendizado, com foco em Front-End, buscando aprimorar minhas habilidades e contribuir para projetos inovadores. Possuo conhecimento em diversas linguagens de programação e frameworks, além de interesse em UI/UX Design.
+> Desenvolvedor Front-End em constante evolução, apaixonado por criar interfaces inovadoras e experiências de usuário excepcionais. Busco aplicar meus conhecimentos em projetos desafiadores e colaborar com equipes de alto desempenho.
 
-## Minhas Habilidades:
+##  Habilidades Principais
 
-### Front-End:
-- JavaScript: Aprendendo e me aprimorando em bibliotecas populares como React, Vue e Angular.
-- HTML e CSS: Construindo interfaces responsivas e acessíveis, buscando sempre as melhores práticas.
-- Experiência com: React Native, TypeScript, Bootstrap, SASS, Git, GitHub, ferramentas de desenvolvimento e metodologias ágeis.
+* **Front-End**: JavaScript (React, Vue, Angular em aprendizado), HTML5, CSS3, React Native, TypeScript, Bootstrap, SASS
+* **Back-End**: Noções básicas de Java (foco em APIs RESTful e Spring Boot), interesse em Django e Flask
+* **UI/UX Design**: Conhecimento em princípios de design, usabilidade e experiência do usuário
+* **Automação**: Python (cursos e projetos pessoais)
+* **Metodologias**: Git, GitHub, Metodologias Ágeis
 
-### Back-End:
-- Noções básicas de Java: Iniciando meu aprendizado em desenvolvimento de APIs RESTful e aplicações web robustas.
-- Interesse em: Spring Boot, Django, Flask, banco de dados relacionais e não relacionais.
+##  Formação Acadêmica
 
-### UI/UX Design:
-- Conhecimento básico em conceitos de design de interfaces, experiência do usuário e usabilidade.
-- Desenvolvendo habilidades para criar interfaces intuitivas e amigáveis.
+* **Ciência da Computação**: Universidade Federal do Rio de Janeiro (UFRJ)
+* **Análise e Desenvolvimento de Sistemas**: Estácio de Sá
 
-### Automação:
-- Cursos e projetos pessoais com Python.
-- 
-## Formação e Experiência:
-### Estudante:
-- Ciência da Computação: UFRJ.
-- Análise e Desenvolvimento de Sistemas: Estacio de Sá.
-- Liga UFRJ Analytica: Iniciando minha jornada na área de ciência de dados.
-- Empresa Júnior: EJCM.
-### Estágio:
-- Karyon Consultoria: Desenvolvimento remoto de software (em busca de oportunidades).
+##  Experiência
 
-### Projeto Pessoal:
-- Criei um grupo de desenvolvimento com meus primos para simular o ambiente de trabalho em equipe e aprimorar nossas habilidades.
+* **Estágio**: Karyon Consultoria (Desenvolvimento Remoto de Software) - em busca de novas oportunidades
+* **Projetos Pessoais**:
+    * Criação de grupo de desenvolvimento com familiares para simular ambiente de trabalho e aprimorar habilidades.
+    * Liga UFRJ Analytica: Introdução a Ciência de Dados.
+    * Empresa Júnior: EJCM.
+
+##  Meus Interesses
+
+* Aprender novas tecnologias e frameworks
+* Contribuir para projetos open-source
+* Explorar o mundo do UI/UX Design
+* Desenvolvimento de API's e Back-end.
+
+##  Conecte-se comigo
+
+* [GitHub](https://github.com/claudio-asj)
 
 ---
 
-Sou um profissional apaixonado por tecnologia, com grande capacidade de aprendizado, proatividade e adaptabilidade. Busco sempre me atualizar com as últimas tendências do mercado e estou em busca de oportunidades para colocar em prática meu conhecimento e contribuir para o crescimento de equipes.
+Sou um profissional proativo, adaptável e apaixonado por tecnologia. Busco oportunidades para aplicar meus conhecimentos e contribuir para o crescimento de equipes inovadoras.
