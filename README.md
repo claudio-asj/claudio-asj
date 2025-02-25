@@ -1,12 +1,6 @@
 <div style="display: inline_block; ">
     <img height="50" src="https://i.pinimg.com/originals/b1/fd/0f/b1fd0f4a1ce84cb8450a1010cff946f6.gif"/>
     <h1>Olá, eu sou o Claudio Jr </h1>
-
-    <div>
-        <a href="https://github.com/claudio-asj">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-asj&layout=compact&langs_count=7&theme=merko"/>
-        </a>
-    </div>
 </div>
 <br>
 
