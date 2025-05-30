@@ -1,43 +1,24 @@
-<div style="display: inline_block; ">
-    <img height="50" src="https://i.pinimg.com/originals/b1/fd/0f/b1fd0f4a1ce84cb8450a1010cff946f6.gif"/>
-    <h1>Olá, eu sou o Claudio Jr </h1>
-</div>
-<br>
+# 👋 Olá, me chamo [Seu Nome]!
 
-> Desenvolvedor Front-End em constante evolução, apaixonado por criar interfaces inovadoras e experiências de usuário excepcionais. Busco aplicar meus conhecimentos em projetos desafiadores e colaborar com equipes de alto desempenho.
+Bem-vindo ao meu perfil no GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e sempre em busca de novos desafios.
 
-##  Habilidades Principais
+## 🚀 Sobre mim
 
-* **Front-End**: JavaScript (React, Vue, Angular em aprendizado), HTML5, CSS3, React Native, TypeScript, Bootstrap, SASS
-* **Back-End**: Noções básicas de Java (foco em APIs RESTful e Spring Boot), interesse em Django e Flask
-* **UI/UX Design**: Conhecimento em princípios de design, usabilidade e experiência do usuário
-* **Automação**: Python (cursos e projetos pessoais)
-* **Metodologias**: Git, GitHub, Metodologias Ágeis
+- 🎓 Atualmente estudando [Seu Curso] na [Sua Instituição].
+- 💼 Trabalhando como [Sua Profissão] na [Sua Empresa].
+- 🌱 Aprendendo sobre [Tecnologias ou Assuntos que está aprendendo].
+- 💬 Pergunte-me sobre [Assuntos que você domina].
+- 📫 Como entrar em contato comigo: [Seu Email] | [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Twitter](https://twitter.com/seu-perfil)
 
-##  Formação Acadêmica
+## 🛠️ Tecnologias e Ferramentas
 
-* **Ciência da Computação**: Universidade Federal do Rio de Janeiro (UFRJ)
-* **Análise e Desenvolvimento de Sistemas**: Estácio de Sá
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 
-##  Experiência
+## 📈 Estatísticas do GitHub
 
-* **Estágio**: Karyon Consultoria (Desenvolvimento Remoto de Software) - em busca de novas oportunidades
-* **Projetos Pessoais**:
-    * Criação de grupo de desenvolvimento com familiares para simular ambiente de trabalho e aprimorar habilidades.
-    * Liga UFRJ Analytica: Introdução a Ciência de Dados.
-    * Empresa Júnior: EJCM.
-
-##  Meus Interesses
-
-* Aprender novas tecnologias e frameworks
-* Contribuir para projetos open-source
-* Explorar o mundo do UI/UX Design
-* Desenvolvimento de API's e Back-end.
-
-##  Conecte-se comigo
-
-* [GitHub](https://github.com/claudio-asj)
-
----
-
-Sou um profissional proativo, adaptável e apaixonado por tecnologia. Busco oportunidades para aplicar meus conhecimentos e contribuir para o crescimento de equipes inovadoras.
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
