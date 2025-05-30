@@ -1,14 +1,13 @@
-# 👋 Olá, me chamo [Seu Nome]!
+# 👋 Olá, me chamo Claudio Jr!
 
-Bem-vindo ao meu perfil no GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e sempre em busca de novos desafios.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.
 
 ## 🚀 Sobre mim
 
-- 🎓 Atualmente estudando [Seu Curso] na [Sua Instituição].
-- 💼 Trabalhando como [Sua Profissão] na [Sua Empresa].
-- 🌱 Aprendendo sobre [Tecnologias ou Assuntos que está aprendendo].
+- 🎓 Atualmente estudando Ciência da Computação na Universidade Federal do Rio de Janeiro.
+- 🌱 Aprendendo sobre Desenvolvimento e Ciência de Dados.
 - 💬 Pergunte-me sobre [Assuntos que você domina].
-- 📫 Como entrar em contato comigo: [Seu Email] | [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Twitter](https://twitter.com/seu-perfil)
+- 📫 Como entrar em contato comigo: cla.junior21@gmail.com | [LinkedIn](https://www.linkedin.com/in/seu-perfil) | [Twitter](https://twitter.com/seu-perfil)
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -21,4 +20,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por 
 
 ## 📈 Estatísticas do GitHub
 
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudio-asj&show_icons=true&theme=radical)
